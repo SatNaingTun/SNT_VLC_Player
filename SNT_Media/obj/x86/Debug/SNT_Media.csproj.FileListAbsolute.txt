@@ -1,0 +1,12 @@
+E:\vsprojects\SNT_Media\SNT_Media\obj\x86\Debug\Interop.AXVLC.dll
+E:\vsprojects\SNT_Media\SNT_Media\obj\x86\Debug\AxInterop.AXVLC.dll
+E:\vsprojects\SNT_Media\SNT_Media\obj\x86\Debug\SNT_Media.csproj.ResolveComReference.cache
+E:\vsprojects\SNT_Media\SNT_Media\bin\Debug\SNT_Media.exe
+E:\vsprojects\SNT_Media\SNT_Media\bin\Debug\SNT_Media.pdb
+E:\vsprojects\SNT_Media\SNT_Media\bin\Debug\Interop.AXVLC.dll
+E:\vsprojects\SNT_Media\SNT_Media\bin\Debug\AxInterop.AXVLC.dll
+E:\vsprojects\SNT_Media\SNT_Media\obj\x86\Debug\SNT_Media.Form1.resources
+E:\vsprojects\SNT_Media\SNT_Media\obj\x86\Debug\SNT_Media.csproj.GenerateResource.Cache
+E:\vsprojects\SNT_Media\SNT_Media\obj\x86\Debug\SNT_Media.exe
+E:\vsprojects\SNT_Media\SNT_Media\obj\x86\Debug\SNT_Media.pdb
+E:\vsprojects\SNT_Media\SNT_Media\obj\x86\Debug\SNT_Media_Player.Properties.Resources.resources
