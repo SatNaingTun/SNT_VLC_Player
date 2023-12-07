@@ -10,3 +10,8 @@ E:\vsprojects\SNT_Media\SNT_Media\obj\x86\Debug\SNT_KTV_Player.Properties.Resour
 E:\vsprojects\SNT_Media\SNT_Media\obj\x86\Debug\SNT_KTV_Player.exe
 E:\vsprojects\SNT_Media\SNT_Media\obj\x86\Debug\SNT_KTV_Player.pdb
 E:\vsprojects\SNT_Media\SNT_Media\obj\x86\Debug\SNT_VLC_KTV.Form1.resources
+E:\vsprojects\SNT_VLC_Player\SNT_Media\obj\x86\Debug\Interop.AXVLC.dll
+E:\vsprojects\SNT_VLC_Player\SNT_Media\obj\x86\Debug\AxInterop.AXVLC.dll
+E:\vsprojects\SNT_VLC_Player\SNT_Media\obj\x86\Debug\SNT_VLC_KTV.csproj.ResolveComReference.cache
+E:\vsprojects\SNT_VLC_Player\SNT_Media\obj\x86\Debug\SNT_KTV_Player.exe
+E:\vsprojects\SNT_VLC_Player\SNT_Media\obj\x86\Debug\SNT_KTV_Player.pdb
